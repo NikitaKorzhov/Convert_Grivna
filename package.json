@@ -1,5 +1,5 @@
 {
-  "name": "bot",
+  "name": "Convert_Grivna",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -7,6 +7,10 @@
     "axios": "^0.19.0",
     "nodemon": "^1.19.4",
     "node-telegram-bot-api": "^0.40.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NikitaKorzhov/Convert_Grivna"
   },
   "devDependencies": {},
   "scripts": {
